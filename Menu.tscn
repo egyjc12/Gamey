@@ -1,0 +1,45 @@
+[gd_scene format=3 uid="uid://wf8xs0p7c2yi"]
+
+[ext_resource type="Texture2D" uid="uid://b2rsfo4ps023p" path="res://s-l1200.jpg" id="1_uubjt"]
+
+[node name="Control" type="Control" unique_id=1189569535]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="TextureRect" type="TextureRect" parent="." unique_id=1831192565]
+layout_mode = 0
+offset_right = 1148.0
+offset_bottom = 643.0
+texture = ExtResource("1_uubjt")
+expand_mode = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="." unique_id=1025659087]
+layout_mode = 0
+offset_left = 309.0
+offset_top = 256.0
+offset_right = 826.0
+offset_bottom = 439.0
+
+[node name="Button" type="Button" parent="VBoxContainer" unique_id=1763391739]
+layout_mode = 2
+text = "Play"
+
+[node name="Button2" type="Button" parent="VBoxContainer" unique_id=725192310]
+layout_mode = 2
+text = "Settings"
+
+[node name="Button3" type="Button" parent="VBoxContainer" unique_id=1950973639]
+layout_mode = 2
+text = "Quit"
+
+[node name="Label" type="Label" parent="." unique_id=1946027952]
+layout_mode = 0
+offset_left = 414.0
+offset_top = 134.0
+offset_right = 762.0
+offset_bottom = 232.0
+text = "Factory tycoon"
