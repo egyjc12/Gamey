@@ -320,7 +320,3 @@ tile_set = SubResource("TileSet_g4v7s")
 position = Vector2(581, 328)
 
 [node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=1355800735]
-
-[node name="Building" type="Node2D" parent="." unique_id=1712698013]
-
-[node name="Sprite2D" type="Sprite2D" parent="Building" unique_id=2018901930]
