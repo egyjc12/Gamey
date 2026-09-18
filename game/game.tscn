@@ -1,7 +1,7 @@
 [gd_scene format=4 uid="uid://7jrvpfj0ki2k"]
 
-[ext_resource type="Texture2D" uid="uid://qspvxqpo4f6k" path="res://tilable-img_0044-dark.png" id="1_wbfu4"]
-[ext_resource type="Script" uid="uid://3ub4r0xhwd0r" path="res://game.gd" id="1_xkndl"]
+[ext_resource type="Texture2D" uid="uid://qspvxqpo4f6k" path="res://game/assets/grass_tile_bright.png" id="1_wbfu4"]
+[ext_resource type="Script" uid="uid://3ub4r0xhwd0r" path="res://game/game.gd" id="1_xkndl"]
 [ext_resource type="Texture2D" uid="uid://cive6gr2g1pah" path="res://icon.svg" id="3_u44n3"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_sb48q"]

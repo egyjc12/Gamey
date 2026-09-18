@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://2e35h2fxfebo"]
 
-[ext_resource type="Texture2D" uid="uid://dkoect08utdsu" path="res://images.png" id="1_e37n3"]
+[ext_resource type="Texture2D" uid="uid://dkoect08utdsu" path="res://buildings/assets/factory_icon_gray.png" id="1_e37n3"]
 
 [node name="Node2D" type="Node2D" unique_id=1265294972]
 

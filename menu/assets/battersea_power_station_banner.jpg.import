@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://qspvxqpo4f6k"
-path="res://.godot/imported/tilable-img_0044-dark.png-d335c3a66667f0a256dd45b12fbff2a5.ctex"
+uid="uid://b2rsfo4ps023p"
+path="res://.godot/imported/battersea_power_station_banner.jpg-f1fedd42819c06ca499c4e4ab518b5e8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://tilable-img_0044-dark.png"
-dest_files=["res://.godot/imported/tilable-img_0044-dark.png-d335c3a66667f0a256dd45b12fbff2a5.ctex"]
+source_file="res://menu/assets/battersea_power_station_banner.jpg"
+dest_files=["res://.godot/imported/battersea_power_station_banner.jpg-f1fedd42819c06ca499c4e4ab518b5e8.ctex"]
 
 [params]
 

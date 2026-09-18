@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://wf8xs0p7c2yi"]
 
-[ext_resource type="Texture2D" uid="uid://b2rsfo4ps023p" path="res://s-l1200.jpg" id="1_uubjt"]
+[ext_resource type="Texture2D" uid="uid://b2rsfo4ps023p" path="res://menu/assets/battersea_power_station_banner.jpg" id="1_uubjt"]
 
 [node name="Control" type="Control" unique_id=1189569535]
 layout_mode = 3
